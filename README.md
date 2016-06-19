@@ -1,3 +1,3 @@
 # CiudadLimpia-
-Desarrolo de la pagina web para el projecto ciudad limpia 
-Diseño
+Desarrollo pagina Broom APP 
+No hacer un desastre! 
